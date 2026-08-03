@@ -102,4 +102,4 @@ let searchFormElement = document.querySelector("#search-form");
 searchFormElement.addEventListener("submit", handleSearchSubmit);
 
 // Initial Search on Page Load
-searchCity("Paris");
+searchCity("Johannesburg");
